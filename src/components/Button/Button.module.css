@@ -1,0 +1,19 @@
+.btn {
+  padding: 2%;
+  min-width: 20%;
+  border-radius: 16px;
+  margin-left: 2%;
+  font-size: 18px;
+  font-weight: 500;
+  color: black;
+  background: #dbdbdb;
+  border: none;
+}
+.btn:hover {
+  color: #dbdbdb;
+  background: black;
+}
+.btn:active {
+  color: #dbdbdb;
+  background: black;
+}
